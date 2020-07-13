@@ -3,7 +3,7 @@
 ### Author: [Abuga Aroni] (https://github.com/AbugaAroni/)
 
 ### Description
-This is my web portfolio.
+This is my web portfolio. It has been made with HTML. It has CSS styling and uses an external style sheet.
 
 ### Features
 * Links to github projects.
