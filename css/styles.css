@@ -5,6 +5,11 @@
   float: right;
   object-fit: contain
 }
+.img-box{
+  width:200px;
+  height:200px;
+  float: right;
+}
 
 .author-box {
    border: 2px solid red;
@@ -20,8 +25,16 @@
    padding: 12px;
    margin: 20px;
 }
+.hi-box {
+   border: 2px;
+   background-color: white;
+   padding: 30px;
+   margin: 26px;
+   object-fit: contain'
+}
 
 h1 {
   color: #f7326e;
   font-family: sans-serif;
+
 }
