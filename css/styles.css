@@ -4,3 +4,17 @@
   height:200px;
   float: right;
 }
+
+.author-box {
+   border: 2px solid red;
+   background-color: white;
+   padding: 12px;
+   margin: 20px;
+}
+
+.aboutme-box {
+   border: 2px solid red;
+   background-color: white;
+   padding: 12px;
+   margin: 20px;
+}
