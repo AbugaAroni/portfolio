@@ -11,7 +11,7 @@ This is my web portfolio. It has been made with HTML. It has CSS styling and use
 
 ### Setup instructions
 If you wish to view the project, you can view the published site in the html link below.
-If you wish to view the code, you may download the files and open them in a relevant text editor.
+If you wish to view the code, you may download the files and open them in a text editor of your choosing.
 
 ### Link to the published site: [My portfolio] (https://abugaaroni.github.io/portfolio/)
 
